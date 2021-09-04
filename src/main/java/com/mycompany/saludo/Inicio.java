@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author esther
+ * @author soporte
  */
 public class Inicio extends HttpServlet {
 
